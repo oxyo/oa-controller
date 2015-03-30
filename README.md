@@ -1,5 +1,6 @@
-# oa-controller
-Open Automation Wireless Fan Coils controller  
+# Open Automation Wireless End-Point controller  
+
+![](http://smartcontrol.lt/images/portfolio/S01.jpg)
 
 This is a Arduino UNO compatible device with 5 relay control channels and Real time clock.
 It use [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center
