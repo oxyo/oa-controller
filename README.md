@@ -7,8 +7,8 @@ It use [Ciseco XRF wireless RF radio UART serial data module][] to communicate w
 This is main controlling element in Open Automation system.  
 
   
-It can be easily used to control devices like Heaters, Coolers, Fan Coils, Fans or any other
-environment control device in your house.
+It can be easily used to control devices like Heaters, Coolers, Fans, Fan Coils, Lights or any other
+environment control device in your home.
   
 For more information please visit [openautomation.center](http://openautomation.center)
 
