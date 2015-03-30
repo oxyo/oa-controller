@@ -2,9 +2,9 @@
 
 ![](http://smartcontrol.lt/images/portfolio/S01.jpg)
 
-This is a Arduino UNO compatible device with 5 relay control channels and Real time clock.
-It use [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center
-This is main controlling element in Open Automation system.  
+This is an Arduino UNO compatible device with 5 relay control channels and Real time clock.
+It uses [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center
+This is a main controlling element in Open Automation system.  
 
   
 It can be easily used to control devices like Heaters, Coolers, Fans, Fan Coils, Lights or any other
